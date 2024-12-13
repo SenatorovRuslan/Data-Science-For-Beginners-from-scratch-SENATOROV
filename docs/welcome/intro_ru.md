@@ -55,7 +55,7 @@
 
    <img src="https://github.com/user-attachments/assets/f7dd3818-32b3-4d5b-a1db-925747ca1bbf" alt="Example" width="700px">
 
-   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount 
+   - Поделитесь ссылкой на ваш профиль Kaggle в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #kaggleaccount
    - [Загрузка ноутбуков на Kaggle](https://youtu.be/Kn9ZcXlCApw)
 
 ---
@@ -63,8 +63,8 @@
 4. **ODS.AI**
    - Перейдите на [ODS.AI](https://ods.ai/).
    - Зарегистрируйтесь для создания аккаунта.
-   - Поделитесь ссылкой на ваш профиль ODS.AI в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #odsaccount 
-  
+   - Поделитесь ссылкой на ваш профиль ODS.AI в чате: [Telegram Chat](https://t.me/c/1937296927/832). в посте добавьте @ВашЮзерНеймТелеграм хэштег #odsaccount
+
 ---
 
 ### Скачивание и установка программ
@@ -103,9 +103,9 @@
       - congyiwu.vscode-jupytext
       - streetsidesoftware.code-spell-checker-russian
       -  Активация русского языка
-      
+
       Commands (use F1 or View -> Command Palette):
-      
+
           Enable Russian Spell Checker Dictionary
           Enable Russian Spell Checker Dictionary in Workspace
       -  Добавить слово в словарь => наводим на слово и нажимаем ctrl+. потом выбираем add to user settings
@@ -161,14 +161,14 @@
 
 1. **Создайте новую ветку**
    - Перейдите на [страницу веток](https://github.com/SENATOROVAI/GithubLogin-Data-Science-For-Beginners-from-scratch-SENATOROV/branches) и создайте новую ветку, назвав её вашим [логином GitHub](https://github.com/settings/admin) без СОБАЧКИ @.
-  
+
 ![image](https://github.com/user-attachments/assets/99f05e36-f698-486a-8f95-50225043fb22)
-   
+
 - Пример ![image](https://github.com/user-attachments/assets/09181e62-84f8-4992-86a4-13394c7a014a)
 4. **Клонируйте репозиторий, лучше конкретную ветку**
    - Скачайте репозиторий на ваш локальный компьютер любым удобным способом. Рекоммендую Github Desktop
   <img width="700px" alt="Screenshot 2024-11-27 at 4 01 19 AM" src="https://github.com/user-attachments/assets/51b74e3d-369b-46fa-be37-6f99c44bf587">
-  
+
 
 4.1 **Клонирование конкретной ветки**
 
@@ -187,7 +187,7 @@
 6. **Введите команды в терминал**
    - Откройте терминал и убедитесь что там написано Data-Science-For-Beginners-from-scratch-SENATOROV
  <img src="https://github.com/user-attachments/assets/c5692ba1-5029-4688-a33b-22220b1cb58a" alt="Example" width="700px">
- 
+
    ![изображение](https://github.com/user-attachments/assets/6145231b-a5b4-488b-967a-5d4ed9b995a5)
    - Затем вставьте 4 команды ниже, в терминал, по очереди, и нажмите каждый раз Enter
    - ``git init ``
@@ -199,8 +199,8 @@
    - Pylint https://pylint.pycqa.org
    - Pydocstyle https://docs.astral.sh/ruff/rules/#pydocstyle-d
    - Flake8 https://flake8.pycqa.org/en/latest/index.html
-   - Mypy https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables 
-     
+   - Mypy https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#variables
+
 7. **Пришлите скриншот вашего терминала**
    - Сделайте полный скриншот вашего терминала на весь экран и пришлите в [чат](https://t.me/c/1937296927/3602) пример скриншота
 
@@ -208,13 +208,13 @@
 
 7.1 **Если у вас есть локальный репозиторий на компьютере с вашей домашней работой, скопируйте ТОЛЬКО файлы и папки с домашней работой из documents/github/ваш_репозиторий, в новый репозиторий documents/github/Data-Science-For-Beginners-from-scratch-SENATOROV**
 
-7.2 <a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a> 
+7.2 <a href="#commit-переходим-в-курсор-и-жмём-на-клиент-гита">Отправляем коммит</a>
 
 8. **Ознакомиться с системой штрафов**
    - [Штрафы](https://t.me/c/1937296927/11810/11811)
-   
+
 9. **Ознакомиться с системой бонусов**
-   - [Бонусы](https://t.me/c/1937296927/25305/25306) 
+   - [Бонусы](https://t.me/c/1937296927/25305/25306)
 
 10. **Ознакомиться с системой помощи в комьюнити**
    - [Инструкция помощь](https://t.me/c/1937296927/2415/23729)
@@ -233,7 +233,7 @@
    - регулярно проверяйте что вас [не тегнули](https://t.me/c/1937296927/2415/25595)
    - помогайте другим коллегам решать их тикеты и [получайте бонусы](https://t.me/c/1937296927/25305/25306), ищите хэштег #open
    <img src="https://github.com/user-attachments/assets/b090d3ee-9dee-4b08-ac7c-281b30f68537" alt="Example" width="700px">
-   
+
 16. **Ответьте на квизы и пришлите пул реквест**
    - [Квиз](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/2)
    - [pull requests](https://www.youtube.com/live/Fdhy4W4U4os)
@@ -253,10 +253,10 @@
 1. ### **update branch**
    - Если в чате GitHub вас просят "обновите ветки/update branch", создайте пулреквест из ветки `main` в вашу ветку. Используйте [страницу сравнения](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/compare), чтобы выбрать вашу ветку и инициировать пулреквест.
      ![изображение](https://github.com/user-attachments/assets/af405a89-cbe5-4bca-b58e-4a332536e001)
-   - В title пул реквеста пишите ``update branch`` 
+   - В title пул реквеста пишите ``update branch``
     ![image](https://github.com/user-attachments/assets/cf31394e-288f-4a53-9730-371585f08fe8)
    - Скролим в самый низ и нажимаем зелёную кнопку "merge"
-   ### Resolve conflicts  
+   ### Resolve conflicts
    - Если возникает конфликт при слиянии, нажимаем "web editor", или "github desktop"
      ![изображение](https://github.com/user-attachments/assets/9253262b-f940-47f5-bda9-510ef3a59b6f)
    - Нажимаем Resolve
@@ -268,22 +268,22 @@
 ---
 
 2. **Сложный конфликт**
-   
+
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/99f348bb-f122-47bc-a43a-810b3b7b6abc">
 
 ### Commit (Переходим в курсор и жмём на клиент гита)
-  
+
 <img width="491" alt="Screenshot 2024-11-28 at 1 21 12 AM" src="https://github.com/user-attachments/assets/236357d9-9682-4ff8-8cd9-39433e1205e3">
 
 - Затрекайте свои временные изменения в коммит, нажмите "+" чтобы внести изменения в трекинг систему гит
-- Список Chahges должен быть пустым
+- Список Changes должен быть пустым
 - Дополнительно можете ещё раз убедиться что всё готово к слиянию веток, введите в терминал:``git status``, список файлов должен быть зелёный
-<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">  
+<img width="500" alt="Screenshot 2024-11-29 at 11 29 54 PM" src="https://github.com/user-attachments/assets/6bb4a32e-ef01-4aaa-b006-d8a12dc499b0">
 <img width="524" alt="Screenshot 2024-11-29 at 11 41 12 PM" src="https://github.com/user-attachments/assets/d9372fff-894d-4c19-aa84-ce96c170ed4f">
 
 - чтобы сделать пустую строку между тайтл и дескрипшен жмём shift+enter, если в коммите участвуют системные файлы, которые я добавил, значит пишете, "update system files", Отправляем коммит нажатием на кнопку **commit&sync**, и потом делаем merge веток
 
-<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">    
+<img src="https://github.com/user-attachments/assets/355ac07d-285c-4133-84b0-185d875ca928" alt="Example" width="700px">
 
 - Внизу слева, должна быть написана **ваша ветка, которую вы создали**
 - Нажимаем 3 точки,  merge
@@ -298,7 +298,7 @@
 
 ![изображение](https://github.com/user-attachments/assets/ca29e057-fd1b-4b99-b66b-6ac9e5c2bd8e)
 
-![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)  
+![изображение](https://github.com/user-attachments/assets/49afd7e8-d965-47a9-9254-10b76816bb6e)
 
 - отдаём коммит, ВЫ УСПЕШНО РЕШИЛИ КОНФЛИКТ И ОБНОВИЛИ ВЕТКУ!
 
@@ -313,7 +313,7 @@
 
 ---
 
-### Check hw  
+### Check hw
 - [Создаёте ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues), у вас 3 варианта:
 -  ишьюс-вопрос
 -  ишьюс-улучшение, если хотите помочь мне улучшить документацию, структуру папок и заработать баллы
@@ -322,16 +322,16 @@
 
 - **Пример**
 <img width="700" alt="Screenshot 2024-11-28 at 2 24 08 PM" src="https://github.com/user-attachments/assets/3ee8d7df-add9-413e-96d7-ec466c509bcb">
- 
+
 - Вы можете попросить чтобы я проверил:
  1) сразу весь файл
  2) блок кода
- 3) одну строку, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк, 
+ 3) одну строку, кнопка "Copy permalink" нужно кликнуть на конкретную строку или выделить несколько строк,
 <img width="500" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/d624ff5b-8755-45fd-b45e-7786643a2138">
-    
 
 
--  [Открываете пул реквест в ветку main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), Тайтл копируем из ишьюс, в дескрипшен пишем Closes #НомерИшьюса, в моём  примере это **Closes #35** 
+
+-  [Открываете пул реквест в ветку main](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pulls), Тайтл копируем из ишьюс, в дескрипшен пишем Closes #НомерИшьюса, в моём  примере это **Closes #35**
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/28c6dfb6-5b5f-470e-9887-b7f928dd61b1">
 <img width="700" alt="Screenshot 2024-11-28 at 1 30 54 PM" src="https://github.com/user-attachments/assets/ac16ef64-da62-4364-990f-d04db21820ac">
 
